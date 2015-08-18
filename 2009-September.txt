@@ -1,0 +1,40 @@
+From I.C.Rutt at swansea.ac.uk  Thu Sep 17 16:42:19 2009
+From: I.C.Rutt at swansea.ac.uk (Ian Rutt)
+Date: Thu, 17 Sep 2009 15:42:19 +0100
+Subject: [Glimmer-cism-autodiff] Glimmer refactoring
+Message-ID: <4AB24ACB.4090101@swansea.ac.uk>
+
+
+Hi All,
+
+As I probably mentioned to you last week, I think the refactoring is 
+difficult to progress without trying it out with the code (as opposed to 
+talking it through with diagrams). Accordingly, I've created a branch so 
+I can experiment, here:
+
+http://svn.berlios.de/svnroot/repos/glimmer-cism/glimmer-cism2/branches/GCISM2-refactor-ICR
+
+Of course, please feel free to look at what I get up to, or contribute 
+to this branch, and/or create your own branches for the same purpose. 
+When/if I have something I feel that might work, I'll let you know.
+
+Cheers,
+
+Ian
+
+P.S. While I remember - Jesse, could you please send out Joomla! logins? 
+Thanks!
+
+
+From Magnus.Hagdorn at ed.ac.uk  Fri Sep 18 10:54:47 2009
+From: Magnus.Hagdorn at ed.ac.uk (Magnus Hagdorn)
+Date: Fri, 18 Sep 2009 09:54:47 +0100
+Subject: [Glimmer-cism-autodiff] Glimmer refactoring
+In-Reply-To: <4AB24ACB.4090101@swansea.ac.uk>
+References: <4AB24ACB.4090101@swansea.ac.uk>
+Message-ID: <1253264087.6965.64.camel@muick.geos.ed.ac.uk>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://lists.berlios.de/pipermail/glimmer-cism-autodiff/attachments/20090918/c2d74876/attachment.ksh>
+
